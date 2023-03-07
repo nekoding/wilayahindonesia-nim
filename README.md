@@ -4,7 +4,9 @@ Library ini diperuntukan untuk mempermudah pengambilan data wilayah indonesia . 
 
 ## Installation
 
-TODO
+```
+nimble install wilayahindonesia
+````
 
 ## Usage
 
